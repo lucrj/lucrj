@@ -8,7 +8,7 @@ I’m a Computer Science student passionate about building projects in AI, Machi
 
 ## 🚀 About Me
 
-* 🎓 studeid at jss stu mysore
+* 🎓 bachelors at jss stu mysore
 * 📊 Interested in Data Analytics, AI, and Cloud Architecture
 * ☁️ Currently learning Cloud Computing and scalable systems
 * 🧠 Preparing for GATE 2026
