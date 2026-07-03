@@ -1,6 +1,6 @@
 # Hi there, I'm Luckyraj 👋
 
-### Computer Science Student | Aspiring Data Analyst | AI & Cloud Enthusiast
+### Computer Science Student 
 
 I’m a Computer Science student passionate about building projects in AI, Machine Learning, Data Analytics, Cloud Computing, and Environmental Tech. I enjoy learning by building real-world projects and exploring how technology can solve practical problems.
 
