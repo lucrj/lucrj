@@ -99,8 +99,8 @@ Created a wireless weather monitoring system using:
 ---
 
 ## 📫 Connect With Me
-* instagram : vida_sera_buena
-* LinkedIn: https://linkedin.com/in/Luckyraj Pebam
+* instagram : https://www.instagram.com/vida_sera_buena
+* LinkedIn: https://linkedin.com/in/luckyraj-pebam
 * Email: pebamluckyraj@gmail.com
 
 ---
