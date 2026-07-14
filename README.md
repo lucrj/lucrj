@@ -99,10 +99,9 @@ Created a wireless weather monitoring system using:
 ---
 
 ## 📫 Connect With Me
-
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* instagram : vida_sera_buena
+* LinkedIn: https://linkedin.com/in/Luckyraj Pebam
+* Email: pebamluckyraj@gmail.com
 
 ---
 
